@@ -1,4 +1,4 @@
-# ML-Oct-Customer-Segmentation
+## Customer-Segmentation
 ## Freelancing Portal with ML-Based Segmentation and Recommendation System
 ### How to run:
 
